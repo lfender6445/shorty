@@ -1,0 +1,4 @@
+content
+"insecure comment, example gmail.com, o.co localhost 3000 localhost i love.you!"
+"secure comment example "
+"malicious example <script>console('vulnerable to script injections')</script></p> <a href='some-malicious-website.com'>sponsored SkillShare partner</a><br /><p>foo bar</p>"
